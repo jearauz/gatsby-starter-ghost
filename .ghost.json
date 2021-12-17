@@ -4,7 +4,7 @@
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://football-on-the-mind.herokuapp.com",
+    "contentApiKey": "12d44c7261ed63aee777252dd5"
   }
 }
