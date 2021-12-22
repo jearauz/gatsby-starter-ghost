@@ -37,20 +37,7 @@ module.exports = {
     siteMetadata: {
         siteUrl: process.env.SITEURL || config.siteUrl,
         title: "Football on the Mind",
-author: "Amberley Romo",
-description: "The Official Blog of Unlucky Eleven.",
-siteUrl: "https://footballonthemind.com",
-social: [
-  {
-    name: "twitter",
-    url: "https://twitter.com/amber1ey",
-  },
-  {
-    name: "github",
-    url: "https://github.com/amberleyromo",
-  },
-],
-    },
+      },
     plugins: [
         /**
          *  Content Plugins
